@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "java-hello",
+  "version": "1.0.0",
+  "description": "Write a Java Hello World program",
+  "author": { "name": "me" },
+  "keywords": ["java", "hello world"]
+}
